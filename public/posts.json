@@ -5,5 +5,12 @@
     "created_at": "2025-8-26 10:33:00",
     "image_url" : "",
     "video_url" : ""
- }
+ },
+  {
+    "id": 2,
+    "content": "تصريح وزير التعليم العالي والبحث العلمي الدكتور مروان الحلبي بخصوص الترفع الإداري",
+    "created_at": "2025-8-26 10:41:00",
+    "image_url" : "https://drive.google.com/thumbnail?id=1aQED4SF1lodzuT_BxwB6e7unGhAKxVSn",
+    "video_url" : ""
+  }
 ]
