@@ -1,31 +1,9 @@
 [
-    {
+ {
     "id": 1,
-    "content": "مرحبا بك في تطبيق بنك الاسئلة الأكاديمي",
-    "created_at": "2025-8-20 15:34:00",
-    "image_url" : "",
-    "video_url" : "https://drive.google.com/file/d/1kPues5hLyOzCpYc4ePNb1HGWyojZDKHF/preview"
-  },
- {
-    "id": 2,
-    "content": "تم إضافة قسم الكتب والملخصات الى صفحة الصف التاسع ",
-    "created_at": "2025-8-24 7:13:00",
-    "image_url" : "https://drive.google.com/thumbnail?id=1n2Dfa9mKnRamZzrEeja8tNHYnQCIwGu5",
-    "video_url" : ""
- },
- {
-    "id": 3,
-    "content": "تم تحديث  الملف الشخصي الخاص بالمدرسين",
-    "created_at": "2025-8-26 6:21:00",
-    "image_url" : "",
-    "video_url" : ""
- },
- {
-    "id": 4,
     "content": "لا يوجد اعلان رسمي من الوزارة بشأن موعد نزول نتائج البكالوريا  📚",
-    "created_at": "2025-8-26 6:50:00",
+    "created_at": "2025-8-26 10:33:00",
     "image_url" : "",
     "video_url" : ""
  }
-
 ]
